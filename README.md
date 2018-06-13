@@ -1,8 +1,8 @@
-# Debug Log Analysis CLI 
+# Debug Log Analysis CLI [![CircleCI](https://circleci.com/gh/eranchetz/debug-analyzer-cli.svg?style=svg)](https://circleci.com/gh/eranchetz/debug-analyzer-cli)
 
 ## Introduction
 
-> This toll will parse a debug (see template below) and returns relevant statistics such as : 
+> This tool will parse a debug (see template below) and returns relevant statistics such as : 
  - Total Number of Debug Messages
  - Number of Successful events
  - Histogram of different events  
@@ -27,8 +27,8 @@ Actions hisotogram {
 
 > You can fetch the binary from the [release page](release page)
 
-> From source:
+> From source (for linux):
 
 ```
-go build 
+env GOOS=linux GOARCH=amd64 go build
 ```
