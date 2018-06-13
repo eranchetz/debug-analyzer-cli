@@ -25,7 +25,7 @@ Actions hisotogram {
 
 ## Installation
 
-> You can fetch the binary from the [release page](release page)
+> You can fetch the binary from the [release page](https://github.com/eranchetz/debug-analyzer-cli/releases)
 
 > From source (for linux):
 
