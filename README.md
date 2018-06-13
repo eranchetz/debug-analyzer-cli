@@ -7,7 +7,7 @@
  - Number of Successful events
  - Histogram of different events  
 
-## Code Samples
+## How to Run
 
 
 ```bash
